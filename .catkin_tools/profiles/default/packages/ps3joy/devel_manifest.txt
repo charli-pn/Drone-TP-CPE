@@ -1,0 +1,6 @@
+joystick_drivers/ps3joy
+/home/student/Bureau/bebop_ben_pin_ws/devel/.private/ps3joy/cmake.lock /home/student/Bureau/bebop_ben_pin_ws/devel/./cmake.lock
+/home/student/Bureau/bebop_ben_pin_ws/devel/.private/ps3joy/share/ps3joy/cmake/ps3joyConfig.cmake /home/student/Bureau/bebop_ben_pin_ws/devel/share/ps3joy/cmake/ps3joyConfig.cmake
+/home/student/Bureau/bebop_ben_pin_ws/devel/.private/ps3joy/share/ps3joy/cmake/ps3joyConfig-version.cmake /home/student/Bureau/bebop_ben_pin_ws/devel/share/ps3joy/cmake/ps3joyConfig-version.cmake
+/home/student/Bureau/bebop_ben_pin_ws/devel/.private/ps3joy/lib/ps3joy/sixpair /home/student/Bureau/bebop_ben_pin_ws/devel/lib/ps3joy/sixpair
+/home/student/Bureau/bebop_ben_pin_ws/devel/.private/ps3joy/lib/pkgconfig/ps3joy.pc /home/student/Bureau/bebop_ben_pin_ws/devel/lib/pkgconfig/ps3joy.pc

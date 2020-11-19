@@ -1,0 +1,5 @@
+bebop_autonomy/bebop_description
+/home/student/Bureau/bebop_ben_pin_ws/devel/.private/bebop_description/cmake.lock /home/student/Bureau/bebop_ben_pin_ws/devel/./cmake.lock
+/home/student/Bureau/bebop_ben_pin_ws/devel/.private/bebop_description/share/bebop_description/cmake/bebop_descriptionConfig-version.cmake /home/student/Bureau/bebop_ben_pin_ws/devel/share/bebop_description/cmake/bebop_descriptionConfig-version.cmake
+/home/student/Bureau/bebop_ben_pin_ws/devel/.private/bebop_description/share/bebop_description/cmake/bebop_descriptionConfig.cmake /home/student/Bureau/bebop_ben_pin_ws/devel/share/bebop_description/cmake/bebop_descriptionConfig.cmake
+/home/student/Bureau/bebop_ben_pin_ws/devel/.private/bebop_description/lib/pkgconfig/bebop_description.pc /home/student/Bureau/bebop_ben_pin_ws/devel/lib/pkgconfig/bebop_description.pc
