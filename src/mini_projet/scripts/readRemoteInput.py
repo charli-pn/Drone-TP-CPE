@@ -7,7 +7,7 @@ from geometry_msgs.msg import Twist
 import sys
 from mini_projet.srv import SurveillanceService
 
-ADRESSE = '192.168.1.27'
+ADRESSE = '192.168.1.165'
 PORT = 6789
 
 move_sensivity_factor = 0.5
